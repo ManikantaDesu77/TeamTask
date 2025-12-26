@@ -1,0 +1,273 @@
+.container{
+    background-color: rgb(252,250,246);
+}
+.head{
+    background-color: #318890;
+    color: white;
+    display: flex;
+    height: 30px;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: -8px;
+
+}
+.head2{
+    display: flex;
+}
+.hp1{
+    margin-left: 50px;
+}
+
+.hp2{
+    margin-right: 30px;
+    display: flex;
+    align-items: center;
+}
+
+.hp2 :hover{
+    color: rgb(233, 233, 128);
+}
+.Headicons {
+    margin-left: 40px;
+    margin-top: 10px;
+    margin-right: 40px;
+}
+.Headicons :hover{
+    color: yellow;
+}
+i{
+    padding: 4px;
+}
+.header{
+    display: flex;
+    height: 80px;
+    background-color: rgb(252, 252, 251);
+    justify-content: space-between;
+    align-items: center;
+}
+.header h1{
+    text-align: left;
+    margin-left: 50px;
+    font-size: 40px;
+}
+.c1{
+    display: flex;
+    gap: 40px;
+}
+
+.nav{
+    margin-right: 40px;
+    display: flex;
+    gap: 40px;
+    align-items: center;
+}
+.nav :hover{
+    color: #318890;
+}
+.b1{
+    height: 43px;
+    width: 170px;
+    border-radius: 50px;
+    background-color: rgb(240,214,35);
+    border: none;
+    margin-right: 20px;
+    align-items: center;
+    color: black;
+}
+
+.b1 :hover{
+    opacity: 1 ;
+    transition: 0.3s;
+    color: black;
+}
+
+
+
+
+
+.c6{
+    display: flex;
+    justify-content: space-around;
+}
+.van{
+    height: 400px;
+    width: 500px;
+}
+.b3{
+    height: 55px;
+    width: 160px;
+    border-radius: 50px;
+    border: none;
+    color: white;
+    font-size: medium;
+    background-color: #318890;
+}
+.b3 :hover{
+opacity: 0.5;
+}
+
+.c6{
+    margin-top: 100px;
+}
+
+.c7{
+    margin-top: 40px;
+    text-align: left;    
+}
+.c7 h1{
+    font-size: 40px;
+}
+.c8{
+    margin-top: 100px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.c9{
+    display: grid;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.c9 h1{
+    font-size: 50px;
+}
+.people{
+    width: 600px;
+    height: 400px;
+    background-image: url(./home/h2.png);
+    
+}
+.t1{
+    display: flex;
+    gap: 20px;
+}
+.d1{
+    margin-top: -20px;
+}
+
+.t2{
+    display: flex;
+    gap: 20px;
+}
+.d2{
+    margin-top: -20px;
+}
+.t3{
+    display: flex;
+    gap: 20px;
+}
+.d3{
+    margin-top: -20px;
+}
+
+
+
+.about{
+    background-image: url(./home/b1.png);
+    padding-bottom: 279px;
+    padding-top: 100px;
+    
+}
+.cloud1{
+    margin-left: 350px;
+    width: 200px;
+}
+.cloud2{
+    margin-left: 50px;
+    width: 200px;
+}
+.A{
+    text-align: center;
+}
+.A h1{
+    font-size: 60px;
+    margin-top: -20px;
+    
+}
+.A p{
+    font-size: large;
+    margin-top: -30px;
+}
+
+
+
+.footer{
+    color: white;
+    margin-top: 100px;
+    display: grid;
+    background-image: url(./home/footer.png);
+    background-size: cover;
+    background-position: center;
+    padding-top: 300px;    
+}
+.icons{
+    display: flex;
+    justify-content: space-evenly;
+}
+.icons :hover{
+    color: #318890;
+}
+.fi1 p :hover{
+    color: #318890;
+}
+.footer1{
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 100px;
+}
+.f1 h1{
+    font-size: 40px;
+}
+.fi1{
+    display: flex;
+    gap: 3px;
+}
+.fi1 :hover{
+    color: #318890;
+}
+.fi1 p{
+    margin-top: -0px;
+}
+
+.fi2{
+    display: flex;
+    gap: 3px;  
+}
+.fi2 :hover{
+    color: #318890;
+}
+.fi2 p{
+    margin-top: -0px;
+}
+
+.fi3{
+    display: flex;
+    gap: 3px;
+}
+.fi3 :hover{
+    color: #318890;
+}
+.fi3 p{
+    margin-top: -0px;
+}
+
+.fi4{
+    display: flex;
+    gap: 3px;
+}
+.fi4 :hover{
+    color: #318890;
+}
+.fi4 p{
+    margin-top: -0px;
+}
+
+.footer2{
+    text-align: center;
+    margin-bottom: 50px;
+}
+.footer2 :hover{
+    color: #318890;
+}
+ 
+
